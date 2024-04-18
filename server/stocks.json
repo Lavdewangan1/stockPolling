@@ -1,0 +1,122 @@
+[
+  {
+    "name": "Apple",
+    "open_price": 150.25,
+    "refreshInterval": 3,
+    "price": 362
+  },
+  {
+    "name": "Google",
+    "open_price": 2800.75,
+    "refreshInterval": 2,
+    "price": 408
+  },
+  {
+    "name": "Microsoft",
+    "open_price": 300.5,
+    "refreshInterval": 5,
+    "price": 312
+  },
+  {
+    "name": "Amazon",
+    "open_price": 3450,
+    "refreshInterval": 4,
+    "price": 238
+  },
+  {
+    "name": "Facebook",
+    "open_price": 320.8,
+    "refreshInterval": 1,
+    "price": 296
+  },
+  {
+    "name": "Tesla",
+    "open_price": 750.2,
+    "refreshInterval": 3,
+    "price": 323
+  },
+  {
+    "name": "Netflix",
+    "open_price": 550.3,
+    "refreshInterval": 2,
+    "price": 420
+  },
+  {
+    "name": "Tesla",
+    "open_price": 760.4,
+    "refreshInterval": 5,
+    "price": 334
+  },
+  {
+    "name": "Twitter",
+    "open_price": 45.2,
+    "refreshInterval": 1,
+    "price": 311
+  },
+  {
+    "name": "Intel",
+    "open_price": 65.1,
+    "refreshInterval": 4,
+    "price": 483
+  },
+  {
+    "name": "AMD",
+    "open_price": 120.7,
+    "refreshInterval": 3,
+    "price": 372
+  },
+  {
+    "name": "Nvidia",
+    "open_price": 800.9,
+    "refreshInterval": 2,
+    "price": 341
+  },
+  {
+    "name": "IBM",
+    "open_price": 135.8,
+    "refreshInterval": 5,
+    "price": 457
+  },
+  {
+    "name": "Oracle",
+    "open_price": 70.4,
+    "refreshInterval": 4,
+    "price": 286
+  },
+  {
+    "name": "Cisco",
+    "open_price": 55.6,
+    "refreshInterval": 1,
+    "price": 283
+  },
+  {
+    "name": "Alphabet",
+    "open_price": 2900.5,
+    "refreshInterval": 3,
+    "price": 340
+  },
+  {
+    "name": "Uber",
+    "open_price": 45.7,
+    "refreshInterval": 2,
+    "price": 389
+  },
+  {
+    "name": "Lyft",
+    "open_price": 50.3,
+    "refreshInterval": 4,
+    "price": 283
+  },
+  {
+    "name": "Snapchat",
+    "open_price": 70.9,
+    "refreshInterval": 5,
+    "price": 350
+  },
+  {
+    "name": "Zoom",
+    "open_price": 280.1,
+    "refreshInterval": 1,
+    "price": 345
+  }
+]
